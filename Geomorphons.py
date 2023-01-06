@@ -13,3 +13,4 @@ TimeEnd = time.time()
 CalcTime = TimeEnd - TimeStart
 
 print "程序运算：", CalcTime, "s"
+print "Program operation:", CalcTime, "s"
